@@ -1,0 +1,11 @@
+p {
+  color: #444;
+  line-height: 1.6;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px
+}
